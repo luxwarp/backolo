@@ -1,7 +1,0 @@
-Initialize log
-2019-06-02-21-19-52 : Starting backolo
-2019-06-02-21-19-52 : Backup destination folder is: '/backolo-backups'
-2019-06-02-21-19-52 : Following files and folders will be excluded from backup: /backolo-backups
-2019-06-02-21-19-52 : Following files and folders will be included in the backup: /home/luxwarp/Pictures
-2019-06-02-21-20-05 : Backup started
-2019-06-02-21-20-07 : Backup complete

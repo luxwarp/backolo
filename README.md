@@ -8,25 +8,25 @@ A great script for example servers.
 
 Updates, fixes and new features will be ever now and then.
 
-![backolo-screenshot](screenshots/backolo-screenshot.png)
+![backolo-screenshot](https://cloud.codeiolo.org/s/MmF9cdXMSKSdL3q/preview)
 
 ## Install
 
-Download the [backolo.sh](backolo.sh) file or clone the project from Github
+Download the [backolo.sh](https://github.com/codeiolo/backolo) file or clone the project from Github
 
 ```
 git clone https://github.com/luxwarp/backolo.git
-``` 
+```
 
 ## Usage
 
-Run the backolo.sh file in terminal like this
+Run the backolo.sh file in terminal
 
 ```
 sudo ./path/to/backolo.sh
 ```
 
-Yes sudo is necessery because backolo is creating folders and files in your root directory (/)
+Yes sudo is necessary because backolo is creating folders and files in your root directory (/)
 
 ## Result
 
@@ -38,7 +38,7 @@ When backolo is running you will also get 2 different log files. One is backolo-
 
 ## License
 
-ISC © 2019 Copyright [Mikael Luxwarp Carlsson](https://luxwarp.info)
+ISC [Mikael Luxwarp Carlsson](https://codeiolo.org)
 
 ## Note
 
